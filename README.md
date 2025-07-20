@@ -14,7 +14,7 @@ The application models a simple airline ticketing scenario where multiple proces
 - Platform: Linux
 
 ## Output
-![Watch the video](demo.mkv)
+![Watch the video](Demo.mkv)
 
 ## Licence
 ** For educational purposes only **
